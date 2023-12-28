@@ -1,0 +1,15 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 3/Binary_To_Common_Anode_7Segment.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 3/Binary_To_Common_Anode_7Segment.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Binary_To_Common_Anode_7Segment
+
+Top level modules:
+	Binary_To_Common_Anode_7Segment
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 3/tbBinary_To_Common_Anode_7Segment.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 3/tbBinary_To_Common_Anode_7Segment.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbBinaryToCommonAnode7Seg
+
+Top level modules:
+	tbBinaryToCommonAnode7Seg
+
+} {} {}}

@@ -1,0 +1,64 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitLogicCellDataFlow
+
+Top level modules:
+	eightBitLogicCellDataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module DataFlowALU
+
+Top level modules:
+	DataFlowALU
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module singleAU_cellDataFlow
+
+Top level modules:
+	singleAU_cellDataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbDataFlowALU
+
+Top level modules:
+	tbDataFlowALU
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module oneLogicCellDataFlow
+
+Top level modules:
+	oneLogicCellDataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module oneBitfullAdderDataFlow
+
+Top level modules:
+	oneBitfullAdderDataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module multiplexer41DataFlow
+
+Top level modules:
+	multiplexer41DataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitMultiplexer41DataFlow
+
+Top level modules:
+	eightBitMultiplexer41DataFlow
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitAU_DataFlow
+
+Top level modules:
+	eightBitAU_DataFlow
+
+} {} {}}

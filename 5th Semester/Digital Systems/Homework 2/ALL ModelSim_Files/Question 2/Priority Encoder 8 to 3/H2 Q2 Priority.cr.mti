@@ -1,0 +1,15 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Priority_Encoder83
+
+Top level modules:
+	Priority_Encoder83
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbPriority_Encoder83
+
+Top level modules:
+	tbPriority_Encoder83
+
+} {} {}}

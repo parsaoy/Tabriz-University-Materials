@@ -1,0 +1,15 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part a/eightBitCounter.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part a/eightBitCounter.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitCounter
+
+Top level modules:
+	eightBitCounter
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part a/tbEightBitCounter.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part a/tbEightBitCounter.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbEighBitCounter
+
+Top level modules:
+	tbEighBitCounter
+
+} {} {}}

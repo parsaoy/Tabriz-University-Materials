@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 1\Part a
+T_opt
+V@GAVhCRmezZ0GD@Y?f`ci3
+04 8 4 work tbMemory fast 0
+=1-54271e5879b7-658d4ed4-3b8-1098
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vMemory
+I0b]g_kI6a19j?cFFeYZ6=1
+VDz8Z]2EG1DC>LR5oLAZe<0
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 1\Part b
+w1703754528
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/Memory.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/Memory.v
+L0 3
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@memory
+!s100 jDa`HmMl1aObPL[z8UkT60
+!s108 1703759567.430000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/Memory.v|
+!i10b 1
+!s85 0
+vtbMemory
+Id@[kFm3Ik2UColocIOm741
+VAPi52V>PHkOeAj^f]4z5V0
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 1\Part b
+w1703754698
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/tbMemory.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/tbMemory.v
+L0 3
+R1
+r1
+31
+R2
+ntb@memory
+!i10b 1
+!s100 S8Q51P6Bc2PLJjYU?_;eP3
+!s85 0
+!s108 1703759567.601000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/tbMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 1/Part b/tbMemory.v|

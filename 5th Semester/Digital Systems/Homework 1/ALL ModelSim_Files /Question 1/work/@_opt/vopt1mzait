@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech_10.1c\examples
+T_opt
+V>h^1JBVh26Oi;IXGFLGVi1
+04 15 4 work Display_Monitor fast 0
+=1-54271e5879b7-658d47ad-23c-e70
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDisplay_Monitor
+I[;3:5P?IH:LO6;8Cl6YWO3
+VXTZC1Kgk9:[3I8S0oRH@?1
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 1
+w1703753198
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 1/Display_Monitor.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 1/Display_Monitor.v
+L0 3
+OE;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@display_@monitor
+!i10b 1
+!s100 Ia@c3zoZCiB@1J7WL]T<n2
+!s85 0
+!s108 1703757720.512000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 1/Display_Monitor.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 1/Display_Monitor.v|

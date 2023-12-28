@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part a
+T_opt
+VGfQQ25bSzPlQz>S]jdgV33
+04 20 4 work tbDecoder24_DataFlow fast 0
+=1-54271e5879b7-658d4a15-320-c5c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDecoder24_DataFlow
+IQThXB4@bbK<_KA7_XaNAo2
+VZ>c@^V=T_5m@HNL:Gej>Q1
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part b
+w1703753366
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/Decoder24_DataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/Decoder24_DataFlow.v
+L0 1
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@decoder24_@data@flow
+!s100 PLA<M`InRi?PS5DimSo2c0
+!s108 1703758352.387000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/Decoder24_DataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/Decoder24_DataFlow.v|
+!i10b 1
+!s85 0
+vtbDecoder24_DataFlow
+IEYVMXJZQXKnd3F:A2@z6h1
+VN>6iMH`2Pm6zI2V15@[Y63
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part b
+w1703753652
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/tbDecoder24_DataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/tbDecoder24_DataFlow.v
+L0 1
+R1
+r1
+31
+R2
+ntb@decoder24_@data@flow
+!i10b 1
+!s100 1^ha`LRI4BEz23KlolW5e1
+!s85 0
+!s108 1703758352.558000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/tbDecoder24_DataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part b/tbDecoder24_DataFlow.v|

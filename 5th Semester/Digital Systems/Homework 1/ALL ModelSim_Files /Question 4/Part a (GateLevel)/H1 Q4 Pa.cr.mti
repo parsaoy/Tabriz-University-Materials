@@ -1,0 +1,64 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module singleAU_cellGateLevel
+
+Top level modules:
+	singleAU_cellGateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module oneLogicCellGateLevel
+
+Top level modules:
+	oneLogicCellGateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module oneBitfullAdderGateLevel
+
+Top level modules:
+	oneBitfullAdderGateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module multiplexer41GateLevel
+
+Top level modules:
+	multiplexer41GateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitMultiplexer41GateLevel
+
+Top level modules:
+	eightBitMultiplexer41GateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitAU_GateLevel
+
+Top level modules:
+	eightBitAU_GateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbGateLevel
+
+Top level modules:
+	tbGateLevel
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module GateLevelALU
+
+Top level modules:
+	GateLevelALU
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module eightBitLogicCellGateLevel
+
+Top level modules:
+	eightBitLogicCellGateLevel
+
+} {} {}}

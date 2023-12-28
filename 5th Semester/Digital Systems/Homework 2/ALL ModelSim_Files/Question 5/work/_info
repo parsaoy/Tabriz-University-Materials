@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 4
+T_opt
+VE;PKSHhg9;oMRj3P:5IaO3
+04 20 4 work tbEightBitMultiplier fast 0
+=1-54271e5879b7-658d5168-1d8-d64
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+veightBitMultiplier
+IFQ;5>hXU3LAMbdE`UAO[I0
+VJ`RXP;JPJUNMEFAX6[M7T2
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 5
+w1703755938
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/eightBitMultiplier.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/eightBitMultiplier.v
+L0 4
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+neight@bit@multiplier
+!s100 OX]OAMW[;dmYE4mbUQU@U0
+!s108 1703760223.362000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/eightBitMultiplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/eightBitMultiplier.v|
+!i10b 1
+!s85 0
+vtbEightBitMultiplier
+I3UYF?izR1M58[K=jGETBd3
+VINVJezFdZjXG6zl90BZoO2
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 5
+w1703756148
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/tbEightBitMultiplier.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/tbEightBitMultiplier.v
+L0 3
+R1
+r1
+31
+R2
+ntb@eight@bit@multiplier
+!i10b 1
+!s100 H6TF>JdZB0D]z7Uc0]UaC2
+!s85 0
+!s108 1703760223.534000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/tbEightBitMultiplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 5/tbEightBitMultiplier.v|

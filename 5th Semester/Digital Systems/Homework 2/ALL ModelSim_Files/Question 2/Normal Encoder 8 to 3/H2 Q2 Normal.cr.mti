@@ -1,0 +1,15 @@
+{C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Normal Encoder 8 to 3/tbNormal_Encoder83.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Normal Encoder 8 to 3/tbNormal_Encoder83.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tbNormal_Encoder83
+
+Top level modules:
+	tbNormal_Encoder83
+
+} {} {}} {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Normal Encoder 8 to 3/Normal_Encoder83.v} {1 {vlog -work work -vopt {C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Normal Encoder 8 to 3/Normal_Encoder83.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Normal_Encoder83
+
+Top level modules:
+	Normal_Encoder83
+
+} {} {}}

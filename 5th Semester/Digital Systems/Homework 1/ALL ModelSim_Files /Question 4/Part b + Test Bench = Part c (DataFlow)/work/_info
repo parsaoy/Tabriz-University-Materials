@@ -1,0 +1,183 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part a (GateLevel)
+T_opt
+VH>X`WQi5GAY@486>MPcRz2
+04 13 4 work tbDataFlowALU fast 0
+=1-54271e5879b7-658d4c7e-35b-714
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDataFlowALU
+IH[4XPzC6?WhdclCbAGXBG2
+VBo22kG=3[M5JCY>[[QJiS3
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part b + Test Bench = Part c (DataFlow)
+Z1 w1703756518
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v
+L0 2
+Z2 OE;L;10.1c;51
+r1
+31
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@data@flow@a@l@u
+!s100 W@P1n7f04UL?<ZcK`kWQU0
+!s108 1703758966.513000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/DataFlowALU.v|
+!i10b 1
+!s85 0
+veightBitAU_DataFlow
+I_8D;zQg4NcE`jk;hkNN8U1
+VTPkP1UPY=_64PhjPeA6WU0
+Z4 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part b + Test Bench = Part c (DataFlow)
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v
+L0 1
+R2
+r1
+31
+R3
+neight@bit@a@u_@data@flow
+!s100 aE9C0V]n<N>2]1`J2lE`M3
+!s108 1703758966.700000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitAU_DataFlow.v|
+!i10b 1
+!s85 0
+veightBitLogicCellDataFlow
+Im]]OmO@>P`fQG?h2`H>4h3
+VBZ:Zz4PKQIK]R3A_Yc`Ob1
+R4
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v
+L0 2
+R2
+r1
+31
+R3
+neight@bit@logic@cell@data@flow
+!s100 80@5laK7[X@bOCH^?>;aA1
+!s108 1703758967.012000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitLogicCellDataFlow.v|
+!i10b 1
+!s85 0
+veightBitMultiplexer41DataFlow
+IDOSF_L7J?zA?R03DhGbDE2
+VV]<0RWUK9l?N:Lz3hFY3f3
+R4
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v
+L0 2
+R2
+r1
+31
+R3
+neight@bit@multiplexer41@data@flow
+!s100 ;mlkSUKWIFJl[dSZAi86c1
+!s108 1703758967.199000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/eightBitMultiplexer41DataFlow.v|
+!i10b 1
+!s85 0
+vmultiplexer41DataFlow
+IUc5D0a`_b;n=CdjlLh4VQ0
+VdVEoM8Wn>c:ZWB7A]d?Dc0
+R4
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v
+L0 1
+R2
+r1
+31
+R3
+nmultiplexer41@data@flow
+!s100 T215I:I?fo<]1o_75ecWm1
+!s108 1703758967.433000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/multiplexer41DataFLow.v|
+!i10b 1
+!s85 0
+voneBitfullAdderDataFlow
+IUjcKobLX^6cNDlR6:cN?`3
+VO=9aUO:=c2adFAZ=_ejQQ3
+R4
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v
+L0 1
+R2
+r1
+31
+R3
+none@bitfull@adder@data@flow
+!s100 I=ASNjB2AZOkCIBe:XNEU1
+!s108 1703758967.636000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneBitfullAdderDataFlow.v|
+!i10b 1
+!s85 0
+voneLogicCellDataFlow
+IVi^Y;fmLb`fN@LOAIf[MM0
+VPI3`40heBX26fJ8A>5<jG0
+R4
+w1703756312
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v
+L0 1
+R2
+r1
+31
+R3
+none@logic@cell@data@flow
+!s100 ?Dn`loAQcDFRffhA0c1V93
+!s108 1703758968.010000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/oneLogicCellDataFlow.v|
+!i10b 1
+!s85 0
+vsingleAU_cellDataFlow
+I5aCiDG5W]9TU1=ZLR8Jz72
+V3RHJ4Nz;lg`WalA]YV9zl1
+R4
+R1
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v
+L0 1
+R2
+r1
+31
+R3
+nsingle@a@u_cell@data@flow
+!s100 0U6io]@Aie7BgYhTfm9`W3
+!s108 1703758968.353000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/singleAU_cellDataFlow.v|
+!i10b 1
+!s85 0
+vtbDataFlowALU
+I0h]jj@R2o9zgFJ@d@E6Ab0
+VD[F?JhBIeJ0cLWif?Ii`D2
+R4
+w1703754122
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v
+L0 7
+R2
+r1
+31
+R3
+ntb@data@flow@a@l@u
+!i10b 1
+!s100 b@_eNonWBT8odc3SiE`UG1
+!s85 0
+!s108 1703758968.541000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part b + Test Bench = Part c (DataFlow)/tbDataFlowALU.v|

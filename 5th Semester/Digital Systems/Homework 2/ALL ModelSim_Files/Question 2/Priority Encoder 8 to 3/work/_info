@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 2\Normal Encoder 8 to 3
+T_opt
+V?m0A`7?>BNNMbTb9g<SFQ3
+04 20 4 work tbPriority_Encoder83 fast 0
+=1-54271e5879b7-658d4fd8-1a8-10c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vPriority_Encoder83
+IRATJaJmP9:KY8A2lhJ:2P0
+VzL[[M37zUN02EKX<;[UTT3
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 2\Priority Encoder 8 to 3
+w1703754952
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v
+L0 2
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@priority_@encoder83
+!s100 ]C34IGRZUHRakd2AdS;<20
+!s108 1703759823.782000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/Priority_Encoder83.v|
+!i10b 1
+!s85 0
+vtbPriority_Encoder83
+IaVzEQ5Vgi?5E1L3jJzH[V3
+Vg9]bh_gZO::ehj:8f]l:G2
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 2\Question 2\Priority Encoder 8 to 3
+w1703754910
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v
+L0 2
+R1
+r1
+31
+R2
+ntb@priority_@encoder83
+!i10b 1
+!s100 7OSc>kSQ?PIfjUo_d5A=d3
+!s85 0
+!s108 1703759823.938000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 2/Question 2/Priority Encoder 8 to 3/tbPriority_Encoder83.v|

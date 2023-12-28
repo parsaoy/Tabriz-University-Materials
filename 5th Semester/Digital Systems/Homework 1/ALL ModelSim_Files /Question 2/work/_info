@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 1
+T_opt
+V37^bK81TROd3c4R_RYhNm0
+04 13 4 work Delayed_Mux21 fast 0
+=1-54271e5879b7-658d48aa-a-bf0
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDelayed_Mux21
+IZ7PgK3ZGaj0VnWCO5aG9C3
+V?5?BD71UYWbkA0Pk[a6Uk0
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 2
+w1703753274
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 2/Delayed_Mux21.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 2/Delayed_Mux21.v
+L0 5
+OE;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@delayed_@mux21
+!i10b 1
+!s100 GLNIM`MUg=[T`?8<kDXVD0
+!s85 0
+!s108 1703757984.556000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 2/Delayed_Mux21.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 2/Delayed_Mux21.v|

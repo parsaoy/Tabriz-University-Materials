@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part b
+T_opt
+V:k4ec3iPa2<QadEMHj6V=0
+04 11 4 work tbDecoder38 fast 0
+=1-54271e5879b7-658d4a85-21e-82c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDecoder24_DataFlow
+I:iR4a6XDhLnJS=5ceSG;Z2
+VZ>c@^V=T_5m@HNL:Gej>Q1
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part c
+w1703753478
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder24_DataFlow.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder24_DataFlow.v
+L0 1
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@decoder24_@data@flow
+!s100 6jaZBjXT7bMO@ePENcI[g3
+!s108 1703758463.037000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder24_DataFlow.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder24_DataFlow.v|
+!i10b 1
+!s85 0
+vDecoder38
+IzJXN3I^7Z7ioiK5Ii3RYP3
+V]WY=6Kf9bS>oV[bP5:ZhK0
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part c
+w1703753678
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder38.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder38.v
+L0 1
+R1
+r1
+31
+R2
+n@decoder38
+!s100 43KBLT6iSb=NmE]:c;5CM0
+!s108 1703758463.287000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder38.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/Decoder38.v|
+!i10b 1
+!s85 0
+vtbDecoder38
+IF45`LWMG5]Hf=l=255Wbb3
+V8WD9_ma>2^nGV31^fzZnO0
+R3
+w1703753670
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/tbDecoder38.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/tbDecoder38.v
+L0 5
+R1
+r1
+31
+R2
+ntb@decoder38
+!i10b 1
+!s100 T=A7D2mBjzG6`[fTCbPI32
+!s85 0
+!s108 1703758463.521000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/tbDecoder38.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part c/tbDecoder38.v|

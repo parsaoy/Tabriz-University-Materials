@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 2
+T_opt
+VHzBL@`FZIfQG7l?X4BUZQ0
+04 21 4 work tbDecoder24_GateLevel fast 0
+=1-54271e5879b7-658d4983-32-410
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vDecoder24_GateLevel
+IS88`gZmBEb[][XSk;BX1f1
+V;FgO8n9;ZIz9C]e<6zO<32
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part a
+w1703753312
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/Decoder24_GateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/Decoder24_GateLevel.v
+L0 1
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@decoder24_@gate@level
+!s100 ZAIE94SFOihGn6TfV`_AT3
+!s108 1703758202.065000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/Decoder24_GateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/Decoder24_GateLevel.v|
+!i10b 1
+!s85 0
+vtbDecoder24_GateLevel
+IGmz2>2H^RT9N9Xg4Ti<DV2
+V?Q7I1?ha4Nf^HS0gKLzo;3
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part a
+w1703753642
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/tbDecoder24_GateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/tbDecoder24_GateLevel.v
+L0 1
+R1
+r1
+31
+R2
+ntb@decoder24_@gate@level
+!i10b 1
+!s100 kf_XfVCe<n]N3G[bX2SJ91
+!s85 0
+!s108 1703758202.361000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/tbDecoder24_GateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 3/Part a/tbDecoder24_GateLevel.v|

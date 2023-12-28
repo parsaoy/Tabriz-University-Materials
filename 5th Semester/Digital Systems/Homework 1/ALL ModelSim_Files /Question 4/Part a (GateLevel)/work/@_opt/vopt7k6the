@@ -1,0 +1,183 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 3\Part c
+T_opt
+V[AX3^8AX<W_h5=V2<B?Nn2
+04 11 4 work tbGateLevel fast 0
+=1-54271e5879b7-658d4afb-104-a90
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+veightBitAU_GateLevel
+ITJXjg<K4Ng2kQnc?BHTbe2
+VfXHEl=CNdQ1XC2NCM6IWm2
+Z0 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part a (GateLevel)
+w1703753708
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v
+L0 3
+Z1 OE;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+neight@bit@a@u_@gate@level
+!s100 l3JObU41CS]dP16B187hl2
+!s108 1703758579.226000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitAU_GateLevel.v|
+!i10b 1
+!s85 0
+veightBitLogicCellGateLevel
+IO6Ui7`]N;3KN6BFR?26303
+VNkmzH8Obc<:Gja;F6KT_00
+Z3 dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part a (GateLevel)
+w1703753724
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v
+L0 2
+R1
+r1
+31
+R2
+neight@bit@logic@cell@gate@level
+!s100 1THERFMk[:7l1HmT[aX9<0
+!s108 1703758579.398000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitLogicCellGateLevel.v|
+!i10b 1
+!s85 0
+veightBitMultiplexer41GateLevel
+I_mf@`XzR<zP=9HlzVoQH?1
+VLNAoXeX6V38nMb<LOmdE43
+R3
+w1703753760
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v
+L0 2
+R1
+r1
+31
+R2
+neight@bit@multiplexer41@gate@level
+!s100 mi<VcAF9LS9zJKikU1F_h2
+!s108 1703758579.601000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/eightBitMultiplexer41GateLevel.v|
+!i10b 1
+!s85 0
+vGateLevelALU
+IW1HJf^o`0k_5XVGhR;CD;0
+VOB4Jb;6=BPUgGCniEo?JU3
+R3
+w1703753796
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v
+L0 2
+R1
+r1
+31
+R2
+n@gate@level@a@l@u
+!s100 jlhSH0K0<@z`Lo<lcYSJb3
+!s108 1703758579.803000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/GateLevelALU.v|
+!i10b 1
+!s85 0
+vmultiplexer41GateLevel
+I71>l<aQg>BHNWP2GG9ZFP3
+V=OM6^jnJ;c6UXkS>B85>g1
+R3
+w1703753826
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v
+L0 2
+R1
+r1
+31
+R2
+nmultiplexer41@gate@level
+!s100 LIZkZ`W]XYja;R26`0VJ81
+!s108 1703758579.991000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/multiplexer41GateLevel.v|
+!i10b 1
+!s85 0
+voneBitfullAdderGateLevel
+I05VP_hVVnQZcJHSjE7UBB3
+Vah>]L6bBCnXzhiLLP4f`k1
+R3
+w1703753844
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v
+L0 2
+R1
+r1
+31
+R2
+none@bitfull@adder@gate@level
+!s100 ?eefcEgnE5ND<MnoJQV]C2
+!s108 1703758580.240000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneBitfullAdderGateLevel.v|
+!i10b 1
+!s85 0
+voneLogicCellGateLevel
+I8iXXW3o5J[O_0AA@3CD5n3
+Ve7Rm^SacgU9Se>Za@Y3W<2
+R3
+w1703753872
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v
+L0 2
+R1
+r1
+31
+R2
+none@logic@cell@gate@level
+!s100 dlGbm3<C9VUX1Dd72OWZO2
+!s108 1703758580.459000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/oneLogicCellGateLevel.v|
+!i10b 1
+!s85 0
+vsingleAU_cellGateLevel
+IVjIUFQc4VlX0iHgKInEOU1
+VAGj7EjibAneed@B[FbTm01
+R3
+w1703753892
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v
+L0 2
+R1
+r1
+31
+R2
+nsingle@a@u_cell@gate@level
+!s100 @M>XNWEYhdjcVA[O^8J_d0
+!s108 1703758580.646000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/singleAU_cellGateLevel.v|
+!i10b 1
+!s85 0
+vtbGateLevel
+INzV2adn2Sco[9;la`Q0=b3
+VYIW4?LC`_3d>8S>[WE0XM2
+R3
+w1703753962
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v
+L0 5
+R1
+r1
+31
+R2
+ntb@gate@level
+!i10b 1
+!s100 H:89?i6VfWlE=1k3_6SCT1
+!s85 0
+!s108 1703758580.864000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 4/Part a (GateLevel)/tbGateLevel.v|

@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 4\Part b + Test Bench = Part c (DataFlow)
+T_opt
+V>d:^n@_A_h91PJ=8U`5?@1
+04 10 4 work Comparator fast 0
+=1-54271e5879b7-658d4d55-389-12c4
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1c;51
+vComparator
+ITC0Bl7Nh>UL86gBidUY0=0
+V28_>c8J28^8FIE?Bb3UB>2
+dC:\Users\Safa\Desktop\Digital Systems Homework Files\Homework 1\Question 5
+w1703754242
+8C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 5/Comparator.v
+FC:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 5/Comparator.v
+L0 2
+OE;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@comparator
+!i10b 1
+!s100 H>S8RV^0MPez_o]kfIS^E2
+!s85 0
+!s108 1703759184.055000
+!s107 C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 5/Comparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Safa/Desktop/Digital Systems Homework Files/Homework 1/Question 5/Comparator.v|
