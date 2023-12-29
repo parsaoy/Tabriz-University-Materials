@@ -1,0 +1,24 @@
+#include <pic18f452.inc>
+
+CONFIG  WDT = OFF
+CONFIG  OSC = XT
+
+RADIX   DEC
+
+MOVF     0x12,W
+SUBWF    0x22,W
+MOVWF    0x32
+
+
+MOVF     0x11,W
+SUBWFB   0x21,W
+MOVWF    0x31
+
+
+MOVF     0x10,W
+SUBWFB   0x20,W
+MOVWF    0x30
+
+hh:
+    BRA  hh
+END
