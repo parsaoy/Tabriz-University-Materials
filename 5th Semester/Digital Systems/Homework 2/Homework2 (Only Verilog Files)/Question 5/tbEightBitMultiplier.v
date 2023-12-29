@@ -7,7 +7,6 @@ module tbEightBitMultiplier;
     reg S, clk;
 
     wire [15:0] Output;
-    wire Finished;
 
     eightBitMultiplier u0(A, B, S, clk, Output);
 

@@ -1,4 +1,4 @@
-// No changes copared to the part a
+// No changes compared to the part a
 module eightBitLogicCellDataFlow(A, B, S, D);
     input [7:0] A;
     input [7:0] B;

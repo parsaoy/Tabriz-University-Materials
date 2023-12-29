@@ -1,4 +1,4 @@
-// No changes copared to the part a
+// No changes compared to the part a
 module eightBitMultiplexer41DataFlow(I0, I1, I2, I3, s0, s1, D);
 
     input [7:0] I0;

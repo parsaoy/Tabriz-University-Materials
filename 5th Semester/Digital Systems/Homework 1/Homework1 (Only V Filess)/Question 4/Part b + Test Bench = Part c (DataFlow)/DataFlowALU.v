@@ -1,4 +1,4 @@
-// No changes copared to the part a
+// No changes compared to the part a
 module DataFlowALU(A, B, cin, S, Z, cout, D);
 
     input [7:0] A;
